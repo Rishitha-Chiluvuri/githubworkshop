@@ -27,3 +27,16 @@ Sno|Name
 ---|---
 1|Rishitha
 2|Kavya
+
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
+:hand_over_mouth:
+:superhero_woman:
+
+~~This was mistaken text~~
+
+**This text is _extremely_ important**
+
+[x] #739
+
+@Gogineni-kavyasree
