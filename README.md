@@ -23,3 +23,7 @@
  
 ![Prabhas](https://mk0timesnextw7n7qiu0.kinstacdn.com/wp-content/uploads/2019/12/facts-you-must-know-about-prabhas-800x580.jpg)
 
+Sno|Name
+---|---
+1|Rishitha
+2|Kavya
